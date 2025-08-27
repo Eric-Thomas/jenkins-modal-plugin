@@ -8,7 +8,7 @@
         <version>4.88</version>
     </parent>
     <groupId>io.github.slackoverflow</groupId>
-    <artifactId>slack-overflow-plugin</artifactId>
+    <artifactId>slack-overflow-plugin-eric</artifactId>
     <version>1.0.0</version>
     <packaging>hpi</packaging>
     <name>Slack Overflow Pipeline Step</name>
